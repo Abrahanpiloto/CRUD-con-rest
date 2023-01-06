@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "abrahan",
+      "email": "ab@gmail.com",
+      "telefono": "66666666",
+      "empresa": "inca",
+      "id": 1
+    },
+    {
+      "nombre": "pedro",
+      "email": "kkkkk@gmail.com",
+      "telefono": "787878778",
+      "empresa": "jkkljlkj",
+      "id": 2
+    },
+    {
+      "nombre": "maria",
+      "email": "gd@m",
+      "telefono": "8989898",
+      "empresa": "tools",
+      "id": 3
+    },
+    {
+      "nombre": "rosa",
+      "email": "perez@perez.com",
+      "telefono": "4546564456",
+      "empresa": "inca",
+      "id": 4
+    }
+  ]
+}
